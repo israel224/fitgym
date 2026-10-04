@@ -1,0 +1,594 @@
+{
+  "profile": {
+    "name": "EMPEROR",
+    "height_cm": 168,
+    "age": 21,
+    "level": "Beginner",
+    "goal_kg": 85.0
+  },
+  "settings": {
+    "units": "kg",
+    "notifications": true
+  },
+  "weights": [
+    {
+      "date": "2026-10-01",
+      "kg": 108.0
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-01",
+      "name": "Full Body",
+      "seconds": 60,
+      "sets": 10
+    }
+  ],
+  "sample_data": false,
+  "onboarding_completed": true,
+  "fitness_goal": "Lose weight",
+  "experience_level": "Beginner",
+  "training_location": "Home",
+  "equipment": [
+    "No equipment"
+  ],
+  "training_days_per_week": 4,
+  "workout_duration": "15\u201320 minutes",
+  "movement_considerations": {
+    "mode": "none",
+    "areas": []
+  },
+  "thirty_day_plan": [
+    {
+      "day": 1,
+      "week": 1,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body A",
+      "exercises": [
+        "Bodyweight Squats",
+        "Knee Push-Ups",
+        "Glute Bridge",
+        "Superman",
+        "Lunges"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body B",
+      "exercises": [
+        "Push-Ups",
+        "Wall Sit",
+        "Walking Lunges",
+        "Glute Bridge",
+        "Close-Grip Push-Ups"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body A",
+      "exercises": [
+        "Bodyweight Squats",
+        "Knee Push-Ups",
+        "Glute Bridge",
+        "Superman",
+        "Lunges"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body B",
+      "exercises": [
+        "Push-Ups",
+        "Wall Sit",
+        "Walking Lunges",
+        "Glute Bridge",
+        "Close-Grip Push-Ups"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body B",
+      "exercises": [
+        "Push-Ups",
+        "Wall Sit",
+        "Walking Lunges",
+        "Glute Bridge",
+        "Close-Grip Push-Ups"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body A",
+      "exercises": [
+        "Bodyweight Squats",
+        "Knee Push-Ups",
+        "Glute Bridge",
+        "Superman",
+        "Lunges"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body B",
+      "exercises": [
+        "Push-Ups",
+        "Wall Sit",
+        "Walking Lunges",
+        "Glute Bridge",
+        "Close-Grip Push-Ups"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body A",
+      "exercises": [
+        "Bodyweight Squats",
+        "Knee Push-Ups",
+        "Glute Bridge",
+        "Superman",
+        "Lunges"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "type": "rest",
+      "title": "Rest Day",
+      "workout": null,
+      "exercises": [],
+      "exercise_count": 0,
+      "max_sets": 0,
+      "set_adjust": 0,
+      "light": [],
+      "duration_min": 0,
+      "focus": "Recovery"
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "type": "workout",
+      "title": "Full Body",
+      "workout": "Bodyweight Full Body A",
+      "exercises": [
+        "Bodyweight Squats",
+        "Knee Push-Ups",
+        "Glute Bridge",
+        "Superman",
+        "Lunges"
+      ],
+      "exercise_count": 5,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "type": "workout",
+      "title": "Core & Cardio",
+      "workout": "Core & Cardio",
+      "exercises": [
+        "Jumping Jacks",
+        "Plank",
+        "High Knees",
+        "Dead Bug",
+        "Mountain Climbers",
+        "Bicycle Crunches",
+        "Side Plank"
+      ],
+      "exercise_count": 7,
+      "max_sets": 5,
+      "set_adjust": -2,
+      "light": [],
+      "duration_min": 18,
+      "focus": "Conditioning"
+    }
+  ],
+  "program_start_date": "2026-10-01",
+  "current_program_day": 2,
+  "completed_program_days": [
+    1
+  ]
+}
